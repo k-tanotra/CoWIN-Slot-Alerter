@@ -1,4 +1,4 @@
-### CoWIN Slot Alerter
+# CoWIN Slot Alerter
 
 Build on Python
 
