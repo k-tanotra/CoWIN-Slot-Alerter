@@ -1,0 +1,1 @@
+Created an CoWIN Slot Alerter using Python which uses CoWIN API to get slot Data.
